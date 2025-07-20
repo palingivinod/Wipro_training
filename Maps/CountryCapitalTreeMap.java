@@ -1,3 +1,4 @@
+package Maps;
 import java.util.*;
 
 public class CountryCapitalTreeMap {
@@ -29,7 +30,7 @@ public class CountryCapitalTreeMap {
         return M2;
     }
 
-    public ArrayList<String> getAllCountries() {cls
+    public ArrayList<String> getAllCountries() {
         
         return new ArrayList<>(M1.keySet());
     }

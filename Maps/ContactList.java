@@ -1,3 +1,5 @@
+package Maps;
+
 import java.util.*;
 
 public class ContactList {

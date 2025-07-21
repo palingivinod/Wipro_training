@@ -13,7 +13,7 @@ class Student {
     }
 
     public String toString() {
-        return "RollNo: " + rollNo + ", Name: " + name + ", Mark: " + mark;
+        return "RollNo: " + rollNo + ", Name: " + name + ", Mark: " + marks;
     }
 }
 
